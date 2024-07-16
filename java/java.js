@@ -22,3 +22,6 @@ let game = "GTA,Minecraft,Resident evil, Last of us, the walking dead.etc"
     I am also learning ${ proqrammingLanguage}.My favorite car is ${Car}. My hobbies includes ${Hobby}.My favorite games are ${game}. I also do part time job as ${Work}, if I get some free time I watch movies, one of my favorite ${Movie}. i also have a pet ${Pet}.  `)    
   
   
+    function myFunction() {
+      alert("Hello! This is my homework!");
+    }
