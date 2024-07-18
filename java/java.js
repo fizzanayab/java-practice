@@ -25,3 +25,7 @@ let game = "GTA,Minecraft,Resident evil, Last of us, the walking dead.etc"
     function myFunction() {
       alert("Hello! This is my homework!");
     }
+
+    function bgColor(color){
+          document.body.style.backgroundColor = color
+      }
